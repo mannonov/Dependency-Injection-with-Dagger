@@ -1,0 +1,5 @@
+interface Brand {
+
+    fun brandInfo()
+
+}
