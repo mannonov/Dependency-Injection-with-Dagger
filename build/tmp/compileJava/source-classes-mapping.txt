@@ -1,0 +1,8 @@
+PhoneModule_ProvideCameraFactory.java
+ PhoneModule_ProvideCameraFactory
+Phone_Factory.java
+ Phone_Factory
+PhoneModule_ProvideDisplayFactory.java
+ PhoneModule_ProvideDisplayFactory
+PhoneModule_ProvideBrandFactory.java
+ PhoneModule_ProvideBrandFactory
