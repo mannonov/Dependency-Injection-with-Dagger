@@ -2,6 +2,9 @@ PhoneModule_ProvideCameraFactory.java
  PhoneModule_ProvideCameraFactory
 Phone_Factory.java
  Phone_Factory
+DaggerPhoneComponent.java
+ DaggerPhoneComponent
+ DaggerPhoneComponent$Builder
 PhoneModule_ProvideDisplayFactory.java
  PhoneModule_ProvideDisplayFactory
 PhoneModule_ProvideBrandFactory.java
