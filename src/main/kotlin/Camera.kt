@@ -1,2 +1,5 @@
 interface Camera {
+
+    fun cameraInfo()
+
 }

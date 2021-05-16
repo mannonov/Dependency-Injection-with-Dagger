@@ -1,2 +1,5 @@
 interface Display {
+
+    fun displayInfo()
+
 }

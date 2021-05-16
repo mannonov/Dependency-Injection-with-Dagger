@@ -1,2 +1,5 @@
 interface Model {
+
+    fun modelInfo()
+
 }
