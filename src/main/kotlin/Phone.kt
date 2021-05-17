@@ -1,3 +1,6 @@
+import interfaces.Brand
+import interfaces.Camera
+import interfaces.Display
 import javax.inject.Inject
 
 class Phone @Inject constructor(

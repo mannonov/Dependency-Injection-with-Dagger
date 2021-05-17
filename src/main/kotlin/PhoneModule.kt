@@ -1,5 +1,11 @@
+import brands.SamsungBrand
+import cameras.TripleCamera
 import dagger.Module
 import dagger.Provides
+import displays.SuperAmoledDisplay
+import interfaces.Brand
+import interfaces.Camera
+import interfaces.Display
 import javax.inject.Singleton
 
 @Module

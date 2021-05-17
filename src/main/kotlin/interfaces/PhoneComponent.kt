@@ -1,3 +1,7 @@
+package interfaces
+
+import Phone
+import PhoneModule
 import dagger.Component
 import javax.inject.Singleton
 
