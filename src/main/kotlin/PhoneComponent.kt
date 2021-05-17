@@ -1,5 +1,3 @@
-package interfaces
-
 import Phone
 import PhoneModule
 import dagger.Component
